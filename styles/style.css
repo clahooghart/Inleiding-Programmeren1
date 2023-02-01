@@ -9,7 +9,7 @@ body {
   justify-content: center;
   text-align: center;
   background-color: plum;
-  background-image:url('images/keuken.png');
+  background-image:url('/images/keuken.png');
   background-repeat:no-repeat;
   padding-top: 8em;
 }
@@ -35,20 +35,20 @@ button {
 }
 
 .keukenbg {
-  background-image:url('./images/keuken.png');
+  background-image:url('/images/keuken.png');
   background-repeat:no-repeat;
   background-position: 50%;
 }
 
 .slaapkamerbg {
-  background-image:url('./images/slaapkamer.png');
+  background-image:url('/images/slaapkamer.png');
   background-repeat:no-repeat;
   background-position: 50%;
 }
 
 
 .badkamerbg {
-  background-image:url('./images/badkamer.png');
+  background-image:url('/images/badkamer.png');
   background-repeat:no-repeat;
   background-position: 50%;
 }
