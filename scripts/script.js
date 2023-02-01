@@ -63,7 +63,6 @@ function slapen() {
     var audio = new Audio('audio/sleepy.mp3');
     audio.play();
     console.log('Pikachu ziet er slaperig uit.')
-
     document.body.classList.remove( 'keukenbg','badkamerbg');
 	document.body.classList.add('slaapkamerbg');
 }
